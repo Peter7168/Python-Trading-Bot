@@ -29,7 +29,7 @@ if __name__ == '__main__':
     # Import project settings
     project_settings = get_project_settings(import_filepath)
     # Start MT5
-    if not MetaTrader5.initialize(login=81236604, server="MetaQuotes-Demo",password="WiCw@xQ4"):
+    if not MetaTrader5.initialize(login=374830239, server="MetaQuotes-Demo",password="hHF9#bf@"):
          print("initialize() failed, error code =",MetaTrader5.last_error())
          quit()
     # Initialize symbols

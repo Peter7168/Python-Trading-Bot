@@ -1,8 +1,8 @@
 {
-    "username": "81236604",
-    "password": "WiCw@xQ4",
+    "username": "9823469",
+    "password": "nfrj%39",
     "server": "MetaQuotes-Demo",
-    "mt5Pathway": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MetaTrader 5\\MetaTrader 5.lnk",
+    "mt5Pathway": "path to mt5.exe",
     "symbols": ["USDJPY.a"],
     "timeframe": "M30",
     "pip_size": 0.01
