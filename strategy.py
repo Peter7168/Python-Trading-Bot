@@ -3,7 +3,6 @@ import pandas
 import numpy
 
 
-# Function to articulate strategy_one
 def strategy_one(symbol, timeframe, pip_size):
     # Retrieve the required data from get_and_transform_mt5_data
     data_df = get_and_transform_mt5_data(symbol=symbol, timeframe=timeframe, number_of_candles=2, pip_size=pip_size)
